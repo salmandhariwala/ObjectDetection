@@ -1,0 +1,29 @@
+conda config --append channels conda-forge
+conda config --append channels powerai
+
+conda install tensorflow
+conda install opencv
+conda install keras
+conda install imageai
+
+
+conda install -c anaconda freetype
+
+conda uninstall opencv
+
+wget https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/resnet50_coco_best_v2.0.1.h5
+
+sample file
+
+wget https://miro.medium.com/max/1536/1*v0Bm-HQxWtpbQ0Yq463uqw.jpeg
+
+
+conda install -c https://conda.binstar.org/menpo opencv
+
+
+conda install tensorflow=1.13.1
+conda install keras=2.3.1
+
+conda install -c sepandhaghighi art
+
+
